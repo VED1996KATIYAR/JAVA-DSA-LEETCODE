@@ -60,5 +60,6 @@
 ## Database
 |  |
 | ------- |
+| [1258-article-views-i](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
