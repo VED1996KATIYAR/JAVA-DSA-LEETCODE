@@ -11,6 +11,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2491-smallest-even-multiple) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
