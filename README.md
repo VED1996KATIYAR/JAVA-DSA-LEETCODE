@@ -15,6 +15,7 @@
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -47,6 +48,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1848-sum-of-unique-elements) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
