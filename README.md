@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
+| [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2491-smallest-even-multiple) |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
