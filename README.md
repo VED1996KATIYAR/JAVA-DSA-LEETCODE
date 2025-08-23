@@ -41,6 +41,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
