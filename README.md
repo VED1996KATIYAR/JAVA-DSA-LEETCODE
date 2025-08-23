@@ -7,6 +7,7 @@
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 ## Simulation
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 ## Array
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
