@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
