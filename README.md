@@ -22,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -64,4 +67,12 @@
 | [1258-article-views-i](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
