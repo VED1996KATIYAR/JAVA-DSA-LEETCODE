@@ -148,4 +148,5 @@
 | [0344-reverse-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0742-to-lower-case) |
+| [3379-score-of-a-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
