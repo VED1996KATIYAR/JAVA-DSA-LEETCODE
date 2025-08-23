@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
