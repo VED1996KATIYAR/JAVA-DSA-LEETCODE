@@ -57,4 +57,8 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2398-check-if-matrix-is-x-matrix) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
