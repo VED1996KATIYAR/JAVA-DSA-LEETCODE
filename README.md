@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
@@ -133,6 +134,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
