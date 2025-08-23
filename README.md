@@ -52,6 +52,7 @@
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,4 +151,5 @@
 | [0520-detect-capital](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
