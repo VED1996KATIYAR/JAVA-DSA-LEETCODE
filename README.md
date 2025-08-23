@@ -36,6 +36,7 @@
 | [0898-transpose-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
