@@ -6,6 +6,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 | [1585-the-kth-factor-of-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2083-three-divisors) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
