@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0263-ugly-number) |
@@ -78,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
