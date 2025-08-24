@@ -46,6 +46,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
