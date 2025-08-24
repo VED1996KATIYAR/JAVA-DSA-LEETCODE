@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0263-ugly-number) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1848-sum-of-unique-elements) |
@@ -103,6 +105,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
