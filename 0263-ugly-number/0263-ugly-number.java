@@ -4,7 +4,8 @@ class Solution {
             return false;
         }
         int pro[]={2,3,5};
-        for(int i=0;i<pro.length;i++){
+        for(int i=0;i<pro.length;i++)
+        {
             while(n%pro[i]==0){
                 n/=pro[i];
             }
