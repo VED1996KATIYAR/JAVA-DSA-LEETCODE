@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
@@ -156,6 +157,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
