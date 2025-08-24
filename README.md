@@ -58,6 +58,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
