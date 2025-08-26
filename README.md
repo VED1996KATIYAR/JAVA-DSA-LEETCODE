@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1448-maximum-69-number) |
@@ -89,6 +90,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0792-binary-search) |
