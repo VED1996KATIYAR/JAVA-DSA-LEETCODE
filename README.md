@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0202-happy-number) |
@@ -30,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 ## Number Theory
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0344-reverse-string) |
