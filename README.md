@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0202-happy-number) |
@@ -50,6 +51,7 @@
 | [0027-remove-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
@@ -124,6 +126,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
