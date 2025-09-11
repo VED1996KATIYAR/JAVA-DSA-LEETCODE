@@ -6,7 +6,7 @@ class Solution {
             if(nums[left]%2==0){
                 left++;
             }
-            else if(nums[right]%2!=0){
+            else if(nums[right]%2==1){
                 right--;
             }
             else{
