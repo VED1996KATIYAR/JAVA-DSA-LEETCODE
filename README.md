@@ -65,6 +65,7 @@
 | [0792-binary-search](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -126,6 +127,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0941-sort-array-by-parity](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -150,6 +152,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VED1996KATIYAR/JAVA-DSA-LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
